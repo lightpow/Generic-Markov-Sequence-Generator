@@ -5,9 +5,9 @@ set(CMAKE_C_STANDARD 11)
 
 include_directories(.)
 
+# add snakes_and_ladders.c or tweets_generator.c at time.
 add_executable(ex3b
         linked_list.c
         linked_list.h
         markov_chain.c
-        markov_chain.h
-        snakes_and_ladders.c)
+        markov_chain.h)
