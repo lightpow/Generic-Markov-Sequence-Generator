@@ -1,1 +1,1 @@
-# Generic-Markov-Sequence-Generator
+# Generic-Markov-Sequence-Generator in C.
