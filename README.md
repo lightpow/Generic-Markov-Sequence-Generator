@@ -1,6 +1,6 @@
 # Generic Markov Sequence Generator
 
-A generic Markov chain implementation in C that can generate sequences based on transition probabilities learned from input data.
+A generic Markov chain implementation in C <11> that can generate sequences based on transition probabilities learned from input data.
 
 ## Overview
 
